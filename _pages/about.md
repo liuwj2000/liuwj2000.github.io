@@ -28,7 +28,7 @@ We propose traffic prediction correction strategy using the reconstruction error
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"ICLR 2023</div><img src='images/structure-v4.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2023</div><img src='images/structure-v4.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 
@@ -42,8 +42,44 @@ We propose TIDER, a novel matrix factorization-based method with disentangled te
 
 # 🎖 Honors and Awards
 
+1, 1st prize, Humanity, social & science innovation paper competition in the teen-group of Shanghai, 2016
+
+2, Outstanding student of the junior league school in PKU, 2017
+
+3, Outstanding student leader of EECS, PKU, 2018
+
+4, Outstanding student leader of PKU, 2018
+
+5, 1st prize, Data Analysis Knowledge Contest for Chinese Univeristy Students, 2022
+
+6, 1st prize, Natural Disaster Competition for Chinese students, 2022
+
+7, Sophisticated student leader, Deecamp 2022, 2022
 
 # 📖 Educations
 
+Nanyang Technological University, SCSE, PHD (2021.07~present)
+
+Peking University,EECS, undergraduate student    (2016.09-2020.06)
+
+Shanghai Experimental school, middle school student (2010.09~2016.06)
+
+Shanghai Experimental school, elementary school student (2010.09~2016.06)
 
 # 💻 Internships
+
+Deecamp 2022, virtual activity, group leader            (2022.06-2022.08)
+
+Baidu, BIL, research assistant     (2020.08-2021.07)
+
+USC, Melady lab, research assistant      (2019.06-2019.09)
+
+# ※ Other Activities
+
+1, Chair of Student Union in EECS, PKU, 2018
+
+2, Group Member in Deecamp 2020 (AI for generating PRG games), 2020
+
+3, Teaching Assistant for CZ 4032 Data Mining, NTU, 2021
+
+4, Team Leader in Deecamp 2022 (AI in accurate spine segmentation), 2022
