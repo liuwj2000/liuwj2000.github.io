@@ -6,30 +6,21 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Lorem ipsum"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
-repository               : "RayeRen/acad-homepage.github.io"
-google_scholar_stats_use_cdn : true
-
-# google analytics
-google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
-
-# SEO Related
-google_site_verification :  # get google_site_verification from https://search.google.com/search-console/about
-bing_site_verification   :  # get bing_site_verification from https://www.bing.com/webmasters/about
-baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
+title                    : "Shuai-Liu's home page"
+description              : "Hello, this is Shuai Liu's home page. "
+repository               : "liuwj2000/liuwj2000.github.io"
 
 # Site Author
 author:
-  name             : "Lorem ipsum"
-  avatar           : "images/android-chrome-512x512.png"
-  bio              : "Lorem ipsum College"
-  location         : "Beijing, China"
+  name             : "Shuai Liu"
+  avatar           : "images/ls.png"
+  bio              : "home page for Shuai Liu"
+  location         : "Singapore, Singapore"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "Lorem@ipsum.com"
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : "https://scholar.google.com.sg/citations?hl=zh-CN&user=NOWOyzUAAAAJ"
+  email            : "aioueh@163.com"
+  researchgate     :  "https://www.researchgate.net/profile/Shuai-Liu-119"
   uri              :
   bitbucket        :
   codepen          :
@@ -37,15 +28,15 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : liuwj2000
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : liu_wenjin_shuai_new
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : # e.g., "linkedin username"
-  dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : # e.g., "https://orcid.org/xxxx"
+  linkedin         : https://www.linkedin.com/in/shuai-liu-20273a181/
+  dblp             : https://dblp.org/pid/76/5789-18.html
+  orcid            : https://orcid.org/0000-0002-9566-3127
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
