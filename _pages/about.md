@@ -28,13 +28,13 @@ We propose traffic prediction correction strategy using the reconstruction error
 </div>
 </div>
 
- <div class='paper-box'><div class='paper-box-image'><div><div class="badge"ICLR 2023</div><img src='images/structure-v4.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"ICLR 2023</div><img src='images/structure-v4.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 
 [Multivariate Time-series imputation with disentangled representations]
 
-**SHUAI LIU**, GUOJIE SONG, WENHAO HUANG
+**SHUAI LIU**, XIUCHENG LI, GAO CONG, YILE CHEN, YUE JIANG
   
 We propose TIDER, a novel matrix factorization-based method with disentangled temporal representations that account for multiple factors, namely trend, seasonality, and local bias, to model complex dynamics. The learned disen- tanglement makes the imputation process more reliable and offers explainability for imputation results.
 </div>
