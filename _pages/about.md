@@ -38,14 +38,14 @@ We propose traffic prediction correction strategy using the reconstruction error
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TKDD 2020</div><img src='images/TKDD.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TKDD 2020</div><img src='images/gaoke.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Real-time Transportation Prediction Correction using Reconstruction Error in Deep Learning, TKDD 2020]
+[高科西路浦东南路口交通优化设计, 2016 上海市青少年人文社会科学论文大赛一等奖 ]
 
-**SHUAI LIU**, GUOJIE SONG, WENHAO HUANG
+**刘帅**, 谢欣
   
-We propose traffic prediction correction strategy using the reconstruction error in the deep neural network. The reconstruction error can reflect the model’s ability on feature representation and then determine the fitness of an input data to the model. We propose two mechanisms of real-time prediction correction using this reconstruction error: the data driven approach and the model-driven approach.
+论文采样了上海浦东新区高科西路浦东南路路口的实地车辆通行数据，通过计算分析道路平面立交道口通行能力影响系数，调整路口红绿灯时长以及路口车道分布情况。论文的研究结果已经被成功应用于上述路口。
 </div>
 </div>
 
@@ -92,3 +92,9 @@ USC, Melady lab, research assistant      (2019.06-2019.09)
 3, Teaching Assistant for CZ 4032 Data Mining, NTU, 2021
 
 4, Team Leader in Deecamp 2022 (AI in accurate spine segmentation), 2022
+
+
+# ※ Reviewers
+
+External Reviewer
+AAAI、IJCAI、KDD、VLDE、PAKDD、ICLR、
