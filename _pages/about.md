@@ -38,7 +38,7 @@ We propose traffic prediction correction strategy using the reconstruction error
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TKDD 2020</div><img src='images/gaoke.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2016</div><img src='images/gaoke.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [高科西路浦东南路口交通优化设计, 2016 上海市青少年人文社会科学论文大赛一等奖 ]
