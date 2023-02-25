@@ -73,7 +73,7 @@ Peking University,EECS, undergraduate student    (2016.09-2020.06)
 
 Shanghai Experimental school, middle school student (2010.09~2016.06)
 
-Shanghai Experimental school, elementary school student (2010.09~2016.06)
+Shanghai Experimental school, elementary school student (2006.09~2010.06)
 
 # 💻 Internships
 
