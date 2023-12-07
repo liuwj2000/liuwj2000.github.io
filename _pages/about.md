@@ -65,6 +65,10 @@ We propose traffic prediction correction strategy using the reconstruction error
 
 7, Sophisticated student leader, Deecamp 2022, 2022
 
+8，2rd prize, Chinese Traditional Culture Knowledge Competition, 2023
+
+9, 2rd prize, Natural Disaster Competition for Chinese students, 2023
+
 # 📖 Educations
 
 Nanyang Technological University, SCSE, PHD (2021.07~present)
