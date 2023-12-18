@@ -15,6 +15,18 @@ My paper 'Multivariate Time-series imputation with disentangled representations'
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICDE 2024</div><img src='images/ICDE2024.pdf' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+
+[SAGDFN: A Scalable Adaptive Graph Diffusion Forecasting Network for Multivariate Time Series Forecasting]
+
+Yue Jiang, Xiucheng Li, Yile Chen, **Shuai Liu**, Weilong Kong, Antonis F. Lentzakis, Gao Cong
+  
+We present a Scaleable Adaptive Graph Diffusion Forecasting Network (SAGDFN) to capture complex spatial-temporal correlation for large- scale multivariate time series and thereby, leading to exceptional performance in multivariate time series forecasting tasks. The proposed SAGDFN is scalable to datasets of thousands of nodes without the need of prior knowledge of spatial correlation.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2023</div><img src='images/structure-v4.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
