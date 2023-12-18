@@ -61,13 +61,7 @@ We propose traffic prediction correction strategy using the reconstruction error
 
 5, 1st prize, Data Analysis Knowledge Contest for Chinese Univeristy Students, 2022
 
-6, 1st prize, Natural Disaster Competition for Chinese students, 2022
-
-7, Sophisticated student leader, Deecamp 2022, 2022
-
-8，2rd prize, Chinese Traditional Culture Knowledge Competition, 2023
-
-9, 2rd prize, Natural Disaster Competition for Chinese students, 2023
+6, Sophisticated student leader, Deecamp 2022, 2022
 
 # 📖 Educations
 
@@ -101,4 +95,4 @@ USC, Melady lab, research assistant      (2019.06-2019.09)
 # ※ Reviewers
 
 External Reviewer
-AAAI、IJCAI、KDD、VLDE、PAKDD、ICLR、
+AAAI、IJCAI、KDD、VLDB、PAKDD、ICLR、
