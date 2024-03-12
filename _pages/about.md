@@ -15,7 +15,7 @@ My paper 'Multivariate Time-series imputation with disentangled representations'
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICDE 2024</div><img src='images/ICDE2024.pdf' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICDE 2024</div><img src='images/ICDE2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 
