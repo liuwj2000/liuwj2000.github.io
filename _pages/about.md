@@ -75,6 +75,8 @@ We propose traffic prediction correction strategy using the reconstruction error
 
 6, Sophisticated student leader, Deecamp 2022, 2022
 
+7, Prompt Engineer, assessed by Datawhale & iFLYTEK SPARK, 2024
+
 # 📖 Educations
 
 Nanyang Technological University, SCSE, PHD (2021.07~present)
@@ -102,6 +104,7 @@ USC, Melady lab, research assistant      (2019.06-2019.09)
 3, Teaching Assistant for CZ 4032 Data Mining, NTU, 2021
 
 4, Team Leader in Deecamp 2022 (AI in accurate spine segmentation), 2022
+
 
 
 # ※ Reviewers
