@@ -110,4 +110,4 @@ USC, Melady lab, research assistant      (2019.06-2019.09)
 # ※ Reviewers
 
 External Reviewer
-AAAI、IJCAI、KDD、VLDB、PAKDD、ICLR、
+AAAI、IJCAI、KDD、VLDB、PAKDD、ICLR、Neurips 2024
