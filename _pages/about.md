@@ -19,6 +19,18 @@ My paper 'Multivariate Time-series imputation with disentangled representations'
 <div class='paper-box-text' markdown="1">
 
 
+[Time Series Large Language Models for Traffic Flow Forecasting: A Survey and Beyond]
+
+Qingqing Long∗, Shuai Liu∗, Ning Cao∗, Xiao Luo, Wei Ju, Chen Fang, Zheng Fang, Chong Chen, Xiansheng Hua and Yuanchun Zhou†
+  
+We made a systematic survey about traffic LLMs.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv 2024</div><img src='images/ICDE2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+
 [Disentangling Dynamics: Advanced, Scalable and Explainable Imputation for Multivariate Time Series]
 
 Shuai Liu, Xiucheng Li, Yile Chen, Yue Jiang, Gao Cong
