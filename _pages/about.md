@@ -15,6 +15,31 @@ My paper 'Multivariate Time-series imputation with disentangled representations'
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv 2024</div><img src='images/ICDE2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+
+[Disentangling Dynamics: Advanced, Scalable and Explainable Imputation for Multivariate Time Series]
+
+Shuai Liu, Xiucheng Li, Yile Chen, Yue Jiang, Gao Cong
+  
+We
+propose TIDER and its enhanced version, AdaTIDER. TIDER
+employs low-rank matrix factorization and disentangled temporal
+representation to model intricate dynamics. By accounting for
+various contributing factors such as trend, seasonality, and
+local bias, TIDER achieves enhanced imputation accuracy. The
+use of disentangled representations improves the reliability
+and interpretability of the imputation process. Notably, TIDER
+demonstrates superior scalability in handling lengthy time series
+without compromising performance. Furthermore, building upon
+TIDER, AdaTIDER adaptively learns cross-channel correlations
+and multi-periods seasonality matrices, surpassing TIDER in
+terms of imputation accuracy and interpretability while main-
+taining scalability.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICDE 2024</div><img src='images/ICDE2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
