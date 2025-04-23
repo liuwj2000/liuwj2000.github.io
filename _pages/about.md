@@ -10,12 +10,11 @@ redirect_from:
 
 Hi, this is Shuai Liu (刘帅）, a second-year Phd student at Nanyang Technological University (NTU) in Singapore. I am under the supervision of Professor Cong Gao. My research focus is on spatial-temporal data mining, artificial intelligence, and machine learning. Before joining NTU, I completed my Bachelor of Science degree in computer science at Peking University in China, under the guidance of Professor Guojie Song.
 
-# ♥ News
-My paper 'Multivariate Time-series imputation with disentangled representations' has been accepted to ICLR 2023.
+
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv 2024</div><img src='images/ICDE2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TBD 2025</div><img src='images/trafficSurvey.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 
@@ -23,11 +22,14 @@ My paper 'Multivariate Time-series imputation with disentangled representations'
 
 Qingqing Long∗, Shuai Liu∗, Ning Cao∗, Xiao Luo, Wei Ju, Chen Fang, Zheng Fang, Chong Chen, Xiansheng Hua and Yuanchun Zhou†
   
-We made a systematic survey about traffic LLMs.
+We  summarize over 170 related works, providing a comprehensive review of the efforts to bridge the gap between
+ time series data and language models, exploring their design principles, and applications in various traffic
+ scenarios, including traffic forecasting, traffic recommendation, mobility forecasting, urban management,
+ signal control and safety analysis, etc. 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv 2024</div><img src='images/ICDE2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TKDE 2025</div><img src='images/TKDE2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 
@@ -49,6 +51,49 @@ TIDER, AdaTIDER adaptively learns cross-channel correlations
 and multi-periods seasonality matrices, surpassing TIDER in
 terms of imputation accuracy and interpretability while main-
 taining scalability.
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2024 Findings</div><img src='images/EMNLP2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+
+
+[UrbanLLM: Autonomous Urban Activity Planning and Management withLarge Language Models]
+
+Yue Jiang, Qin Chao, Yile Chen1, Xiucheng Li, Shuai Liu, Gao Cong
+  
+We introduce UrbanLLM,
+ a fine-tuned large language model (LLM)
+ designed to tackle diverse problems in urban
+ scenarios. UrbanLLM functions as a problem
+solver by decomposing urban-related queries
+ into manageable sub-tasks, identifying suitable
+ spatio-temporal AI models for each sub-task,
+ and generating comprehensive responses
+ to the given queries.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SigSpatial 2024 Workshop</div><img src='images/SG2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+
+
+[Personalized and On-device Trajectory Mobility Prediction]
+
+Cuauhtemoc Anda, Ning Cao, Shuai Liu*, Shaowei Ying, Gao Cong
+  
+We propose a novel feature-engineering and machine
+ learning-based framework for trajectory prediction. Our method
+ incorporates Time2Vec to capture both periodic and trend-based
+ temporal features and utilizes CatBoost to handle structured, non
+sequential trajectory data efficiently. This approach reduces over
+f
+ itting, enhances privacy by eliminating the need for cloud pro
+cessing, and achieves competitive performance, ranking in the top
+ 10 among over 100 team submissions.
 </div>
 </div>
 
