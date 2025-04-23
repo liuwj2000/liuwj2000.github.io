@@ -55,7 +55,7 @@ taining scalability.
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2024 Findings</div><img src='images/EMNLP2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2024 Findings</div><img src='images/EMNLP 2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 
