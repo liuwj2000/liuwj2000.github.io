@@ -200,10 +200,20 @@ AAAI 2026, AISTATS 2026, ICML 2026
 
 <section class="visitor-map" aria-labelledby="visitor-map-title">
   <h1 id="visitor-map-title">Visitors Around the World</h1>
-  <p class="visitor-map__intro">Where visitors to this homepage have come from.</p>
+  <p class="visitor-map__intro">Where visitors to this homepage have come from, counted from the latest reset.</p>
+  <div class="visitor-map__legend" aria-label="Visitor counter legend">
+    <div>
+      <strong>By region</strong>
+      <span>Number beside each flag = visitors from that region</span>
+    </div>
+    <div>
+      <strong>Total</strong>
+      <span>Total visitors = sum of region counts; Pageviews = total visit times</span>
+    </div>
+  </div>
   <div class="visitor-map__counter">
-    <a href="https://s11.flagcounter.com/more/lwj2" target="_blank" rel="noopener noreferrer">
-      <img src="https://s11.flagcounter.com/count2/lwj2/bg_FFFFFF/txt_333333/border_DDDDDD/columns_4/maxflags_24/viewers_3/labels_1/pageviews_1/flags_0/percent_0/" alt="Visitor countries for Shuai Liu's homepage">
+    <a href="https://s11.flagcounter.com/more/sliu26" target="_blank" rel="noopener noreferrer">
+      <img src="https://s11.flagcounter.com/count2/sliu26/bg_FFFFFF/txt_333333/border_DDDDDD/columns_4/maxflags_24/viewers_3/labels_1/pageviews_1/flags_0/percent_0/" alt="Visitor countries for Shuai Liu's homepage">
     </a>
   </div>
 </section>

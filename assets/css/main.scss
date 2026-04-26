@@ -120,6 +120,40 @@ h1:before, .anchor:before {
     font-size: .9em;
 }
 
+.visitor-map__legend {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: .75em;
+    margin: 1em 0;
+
+    div {
+        padding: .75em .9em;
+        border: 1px #e6e6e6 solid;
+        background-color: #fafafa;
+    }
+
+    strong,
+    span {
+        display: block;
+    }
+
+    strong {
+        margin-bottom: .25em;
+        color: #333;
+        font-size: .9em;
+    }
+
+    span {
+        color: #666;
+        font-size: .85em;
+        line-height: 1.4;
+    }
+
+    @include breakpoint($medium) {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+}
+
 .visitor-map__counter {
     margin: 1em 0 .75em 0;
 
