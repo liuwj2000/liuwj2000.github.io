@@ -204,11 +204,19 @@ AAAI 2026, AISTATS 2026, ICML 2026
   <div class="visitor-map__legend" aria-label="Visitor counter legend">
     <div>
       <strong>By region</strong>
-      <span>Number beside each flag = visitors from that region</span>
+      <span>Number beside each flag = visitors from that country or region</span>
     </div>
     <div>
-      <strong>Total</strong>
-      <span>Total visitors = sum of region counts; Pageviews = total visit times</span>
+      <strong>Total pageviews</strong>
+      <span>Pageviews = total times this counter has loaded</span>
+    </div>
+    <div>
+      <strong>Regional pageviews</strong>
+      <span>Click the counter to view detailed statistics, including pageviews by country or region when available</span>
+    </div>
+    <div>
+      <strong>Region</strong>
+      <span>Country or region is estimated from the visitor's IP geolocation</span>
     </div>
   </div>
   <div class="visitor-map__counter">
