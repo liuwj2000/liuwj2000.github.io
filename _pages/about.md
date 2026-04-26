@@ -197,3 +197,14 @@ CIKM 2024, Neurips 2024, ICDE 2024
 ICLR 2025, AISTATS 2025, ACL 2025, ICML 2025, IJCAI 2025, KDD 2025, ASOC 2025, Neurips 2025
 
 AAAI 2026, AISTATS 2026
+
+<section class="visitor-map" aria-labelledby="visitor-map-title">
+  <h1 id="visitor-map-title">Visitors Around the World</h1>
+  <p class="visitor-map__intro">Where visitors to this homepage have come from.</p>
+  <div class="visitor-map__counter">
+    <a href="https://s11.flagcounter.com/more/lwj2" target="_blank" rel="noopener noreferrer">
+      <img src="https://s11.flagcounter.com/count2/lwj2/bg_FFFFFF/txt_333333/border_DDDDDD/columns_4/maxflags_24/viewers_3/labels_1/pageviews_1/flags_0/percent_0/" alt="Visitor countries for Shuai Liu's homepage">
+    </a>
+  </div>
+  <p class="visitor-map__note">The map starts collecting visits after this widget is published.</p>
+</section>
