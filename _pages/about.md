@@ -66,13 +66,13 @@ Hi, this is Shuai Liu (刘帅）, a second-year Phd student at Nanyang Technolog
   <div class="publication-item">
     <div class="publication-title">Personalized and On-Device Trajectory Mobility Prediction</div>
     <div class="publication-authors">Cuauhtemoc Anda, Ning Cao, <strong>Shuai Liu</strong>, Shaowei Ying, Gao Cong</div>
-    <div class="publication-venue">The 2nd ACM SIGSPATIAL International Workshop on Human Mobility Prediction Challenge, 2024</div>
+    <div class="publication-venue">The 2nd ACM SIGSPATIAL International Workshop on Human Mobility Prediction Challenge, 2024 (6th Place Worldwide)</div>
   </div>
 
   <div class="publication-item">
     <div class="publication-title">NextLocLLM: Location Semantics Modeling and Coordinate-Based Next Location Prediction with LLMs</div>
     <div class="publication-authors"><strong>Shuai Liu</strong>, Ning Cao, Yile Chen, Yue Jiang, George Rosario Jagadeesh, Gao Cong</div>
-    <div class="publication-venue">arXiv preprint arXiv:2410.09129, 2024</div>
+    <div class="publication-venue">The International Workshop on Spatio-Temporal Data Intelligence and Foundation Models, CIKM 2025</div>
   </div>
 
   <div class="publication-item">
