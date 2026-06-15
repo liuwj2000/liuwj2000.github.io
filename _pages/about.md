@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, this is Shuai Liu (刘帅）, a second-year Phd student at Nanyang Technological University (NTU) in Singapore. I am under the supervision of Professor Cong Gao. My research focus is on spatial-temporal data mining, artificial intelligence, and machine learning. Before joining NTU, I completed my Bachelor of Science degree in computer science at Peking University in China, under the guidance of Professor Guojie Song.
+Hi, this is Shuai Liu (刘帅）, a last-year PhD student at Nanyang Technological University (NTU) in Singapore. I am under the supervision of Professor Cong Gao. My research focus is on spatial-temporal data mining, artificial intelligence, and machine learning. Before joining NTU, I completed my Bachelor of Science degree in computer science at Peking University in China, under the guidance of Professor Guojie Song.
 
 
 
