@@ -14,133 +14,96 @@ Hi, this is Shuai Liu (刘帅）, a second-year Phd student at Nanyang Technolog
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TBD 2025</div><img src='images/trafficSurvey.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class="publication-list">
+  <div class="publication-item">
+    <div class="publication-title">A Survey of Large Language Models for Traffic Forecasting: Methods and Applications</div>
+    <div class="publication-authors">Qingqing Long, <strong>Shuai Liu</strong>, Ning Cao, Zhicheng Ren, Xiao Luo, Wei Ju, Chen Fang, Zhihong Zhu, Hengshu Zhu, Yuanchun Zhou</div>
+    <div class="publication-venue">IEEE Transactions on Big Data, 2026</div>
+  </div>
 
+  <div class="publication-item">
+    <div class="publication-title">Bus-Conditioned Zero-Shot Trajectory Generation via Task Arithmetic</div>
+    <div class="publication-authors"><strong>Shuai Liu</strong>, Ning Cao, Yile Chen, Yue Jiang, Gao Cong</div>
+    <div class="publication-venue">arXiv preprint arXiv:2602.13071, 2026</div>
+  </div>
 
-[Time Series Large Language Models for Traffic Flow Forecasting: A Survey and Beyond]
+  <div class="publication-item">
+    <div class="publication-title">FSTLLM: Spatio-Temporal LLM for Few-Shot Time Series Forecasting</div>
+    <div class="publication-authors">Yue Jiang, Yile Chen, Xiucheng Li, Qin Chao, <strong>Shuai Liu</strong>, Gao Cong</div>
+    <div class="publication-venue">The 42nd International Conference on Machine Learning (ICML), 2025</div>
+  </div>
 
-Qingqing Long, **Shuai Liu**, Ning Cao, Xiao Luo, Wei Ju, Chen Fang, Zheng Fang, Chong Chen, Xiansheng Hua, Yuanchun Zhou
-  
-We  summarize over 170 related works, providing a comprehensive review of the efforts to bridge the gap between
- time series data and language models, exploring their design principles, and applications in various traffic
- scenarios, including traffic forecasting, traffic recommendation, mobility forecasting, urban management,
- signal control and safety analysis, etc. 
-</div>
-</div>
+  <div class="publication-item">
+    <div class="publication-title">STRATA-TS: Selective Knowledge Transfer for Urban Time Series Forecasting with Retrieval-Guided Reasoning</div>
+    <div class="publication-authors">Yue Jiang, Chenxi Liu, Yile Chen, Qin Chao, <strong>Shuai Liu</strong>, Cheng Long, Gao Cong</div>
+    <div class="publication-venue">arXiv preprint arXiv:2508.18635, 2025</div>
+  </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TKDE 2025</div><img src='images/TKDE2025.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+  <div class="publication-item">
+    <div class="publication-title">Enhancing Large Language Models for Mobility Analytics with Semantic Location Tokenization</div>
+    <div class="publication-authors">Yile Chen, Yicheng Tao, Yue Jiang, <strong>Shuai Liu</strong>, Han Yu, Gao Cong</div>
+    <div class="publication-venue">The 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2025</div>
+  </div>
 
+  <div class="publication-item">
+    <div class="publication-title">Mixture-of-Experts for Personalized and Semantic-Aware Next Location Prediction</div>
+    <div class="publication-authors"><strong>Shuai Liu</strong>, Ning Cao, Yile Chen, Yue Jiang, Gao Cong</div>
+    <div class="publication-venue">arXiv preprint arXiv:2505.24597, 2025</div>
+  </div>
 
-[Disentangling Dynamics: Advanced, Scalable and Explainable Imputation for Multivariate Time Series]
+  <div class="publication-item">
+    <div class="publication-title">Disentangling Dynamics: Advanced, Scalable and Explainable Imputation for Multivariate Time Series</div>
+    <div class="publication-authors"><strong>Shuai Liu</strong>, Xiucheng Li, Yile Chen, Yue Jiang, Gao Cong</div>
+    <div class="publication-venue">IEEE Transactions on Knowledge and Data Engineering (TKDE), 2025</div>
+  </div>
 
-**Shuai Liu**, Xiucheng Li, Yile Chen, Yue Jiang, Gao Cong
-  
-We
-propose TIDER and its enhanced version, AdaTIDER. TIDER
-employs low-rank matrix factorization and disentangled temporal
-representation to model intricate dynamics. By accounting for
-various contributing factors such as trend, seasonality, and
-local bias, TIDER achieves enhanced imputation accuracy. The
-use of disentangled representations improves the reliability
-and interpretability of the imputation process. Notably, TIDER
-demonstrates superior scalability in handling lengthy time series
-without compromising performance. Furthermore, building upon
-TIDER, AdaTIDER adaptively learns cross-channel correlations
-and multi-periods seasonality matrices, surpassing TIDER in
-terms of imputation accuracy and interpretability while main-
-taining scalability.
-</div>
-</div>
+  <div class="publication-item">
+    <div class="publication-title">UrbanLLM: Autonomous Urban Activity Planning and Management with Large Language Models</div>
+    <div class="publication-authors">Yue Jiang, Qin Chao, Yile Chen, Xiucheng Li, <strong>Shuai Liu</strong>, Gao Cong</div>
+    <div class="publication-venue">Findings of the Association for Computational Linguistics: EMNLP, 2024</div>
+  </div>
 
+  <div class="publication-item">
+    <div class="publication-title">Personalized and On-Device Trajectory Mobility Prediction</div>
+    <div class="publication-authors">Cuauhtemoc Anda, Ning Cao, <strong>Shuai Liu</strong>, Shaowei Ying, Gao Cong</div>
+    <div class="publication-venue">The 2nd ACM SIGSPATIAL International Workshop on Human Mobility Prediction Challenge, 2024</div>
+  </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2024 Findings</div><img src='images/EMNLP 2024.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+  <div class="publication-item">
+    <div class="publication-title">NextLocLLM: Location Semantics Modeling and Coordinate-Based Next Location Prediction with LLMs</div>
+    <div class="publication-authors"><strong>Shuai Liu</strong>, Ning Cao, Yile Chen, Yue Jiang, George Rosario Jagadeesh, Gao Cong</div>
+    <div class="publication-venue">arXiv preprint arXiv:2410.09129, 2024</div>
+  </div>
 
+  <div class="publication-item">
+    <div class="publication-title">NextLocLLM: Next Location Prediction Using LLMs</div>
+    <div class="publication-authors"><strong>Shuai Liu</strong>, Ning Cao, Yile Chen, Yue Jiang, Gao Cong</div>
+    <div class="publication-venue">Preprint, 2024</div>
+  </div>
 
+  <div class="publication-item">
+    <div class="publication-title">SAGDFN: A Scalable Adaptive Graph Diffusion Forecasting Network for Multivariate Time Series Forecasting</div>
+    <div class="publication-authors">Yue Jiang, Xiucheng Li, Yile Chen, <strong>Shuai Liu</strong>, Weilong Kong, Antonis F. Lentzakis, Gao Cong</div>
+    <div class="publication-venue">IEEE 40th International Conference on Data Engineering (ICDE), 2024</div>
+  </div>
 
-[UrbanLLM: Autonomous Urban Activity Planning and Management withLarge Language Models]
+  <div class="publication-item">
+    <div class="publication-title">Multivariate Time-Series Imputation with Disentangled Temporal Representations</div>
+    <div class="publication-authors"><strong>Shuai Liu</strong>, Xiucheng Li, Gao Cong, Yile Chen, Yue Jiang</div>
+    <div class="publication-venue">The 11th International Conference on Learning Representations (ICLR), 2023</div>
+  </div>
 
-Yue Jiang, Qin Chao, Yile Chen, Xiucheng Li, **Shuai Liu**, Gao Cong
-  
-We introduce UrbanLLM,
- a fine-tuned large language model (LLM)
- designed to tackle diverse problems in urban
- scenarios. UrbanLLM functions as a problem
-solver by decomposing urban-related queries
- into manageable sub-tasks, identifying suitable
- spatio-temporal AI models for each sub-task,
- and generating comprehensive responses
- to the given queries.
-</div>
-</div>
+  <div class="publication-item">
+    <div class="publication-title">Real-Time Transportation Prediction Correction Using Reconstruction Error in Deep Learning</div>
+    <div class="publication-authors"><strong>Shuai Liu</strong>, Guojie Song, Wenhao Huang</div>
+    <div class="publication-venue">ACM Transactions on Knowledge Discovery from Data (TKDD), 2020</div>
+  </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SigSpatial 2024 Workshop</div><img src='images/SG2024.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-
-
-[Personalized and On-device Trajectory Mobility Prediction]
-
-Cuauhtemoc Anda, Ning Cao, **Shuai Liu**, Shaowei Ying, Gao Cong
-  
-We propose a novel feature-engineering and machine
- learning-based framework for trajectory prediction. Our method
- incorporates Time2Vec to capture both periodic and trend-based
- temporal features and utilizes CatBoost to handle structured, non
-sequential trajectory data efficiently. This approach reduces over
-f
- itting, enhances privacy by eliminating the need for cloud pro
-cessing, and achieves competitive performance, ranking in the top
- 10 among over 100 team submissions.
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICDE 2024</div><img src='images/ICDE2024.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-
-[SAGDFN: A Scalable Adaptive Graph Diffusion Forecasting Network for Multivariate Time Series Forecasting]
-
-Yue Jiang, Xiucheng Li, Yile Chen, **Shuai Liu**, Weilong Kong, Antonis F. Lentzakis, Gao Cong
-  
-We present a Scaleable Adaptive Graph Diffusion Forecasting Network (SAGDFN) to capture complex spatial-temporal correlation for large- scale multivariate time series and thereby, leading to exceptional performance in multivariate time series forecasting tasks. The proposed SAGDFN is scalable to datasets of thousands of nodes without the need of prior knowledge of spatial correlation.
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2023</div><img src='images/structure-v4.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-
-[Multivariate Time-series imputation with disentangled representations]
-
-**Shuai Liu**, Xiucheng Li, Gao Cong, Yile Chen, Yue Jiang
-  
-We propose TIDER, a novel matrix factorization-based method with disentangled temporal representations that account for multiple factors, namely trend, seasonality, and local bias, to model complex dynamics. The learned disen- tanglement makes the imputation process more reliable and offers explainability for imputation results.
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TKDD 2020</div><img src='images/TKDD.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Real-time Transportation Prediction Correction using Reconstruction Error in Deep Learning, TKDD 2020]
-
-**Shuai Liu**, Guojie Song, Wenhao Huang
-  
-We propose traffic prediction correction strategy using the reconstruction error in the deep neural network. The reconstruction error can reflect the model’s ability on feature representation and then determine the fitness of an input data to the model. We propose two mechanisms of real-time prediction correction using this reconstruction error: the data driven approach and the model-driven approach.
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2016</div><img src='images/gaoke.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[高科西路浦东南路口交通优化设计, 2016 上海市青少年人文社会科学论文大赛一等奖 ]
-
-**刘帅**, 谢欣
-  
-论文采样了上海浦东新区高科西路浦东南路路口的实地车辆通行数据，通过计算分析道路平面立交道口通行能力影响系数，调整路口红绿灯时长以及路口车道分布情况。论文的研究结果已经被成功应用于上述路口。
-</div>
+  <div class="publication-item">
+    <div class="publication-title">高科西路浦东南路路口交通优化设计</div>
+    <div class="publication-authors"><strong>刘帅</strong></div>
+    <div class="publication-venue">上海市青少年人文社会科学论文竞赛一等奖, 2016</div>
+  </div>
 </div>
 
 # 🎖 Honors and Awards

@@ -108,6 +108,34 @@ h1:before, .anchor:before {
     font-size: .8em;
 }
 
+.publication-list {
+    margin: 1.25em 0 2.5em;
+}
+
+.publication-item {
+    margin-bottom: 2em;
+    padding-left: 2em;
+}
+
+.publication-title {
+    margin-bottom: .2em;
+    color: #111;
+    font-size: 1.05em;
+    line-height: 1.45;
+}
+
+.publication-authors {
+    color: #111;
+    line-height: 1.45;
+}
+
+.publication-venue {
+    margin-top: .15em;
+    color: #222;
+    font-style: italic;
+    line-height: 1.4;
+}
+
 .visitor-map {
     margin-top: 2.5em;
     padding-top: 1em;
