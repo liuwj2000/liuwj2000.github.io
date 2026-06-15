@@ -20,7 +20,7 @@ Hi, this is Shuai Liu (刘帅）, a second-year Phd student at Nanyang Technolog
 
 [Time Series Large Language Models for Traffic Flow Forecasting: A Survey and Beyond]
 
-Qingqing Long∗, Shuai Liu∗, Ning Cao∗, Xiao Luo, Wei Ju, Chen Fang, Zheng Fang, Chong Chen, Xiansheng Hua and Yuanchun Zhou†
+Qingqing Long, **Shuai Liu**, Ning Cao, Xiao Luo, Wei Ju, Chen Fang, Zheng Fang, Chong Chen, Xiansheng Hua, Yuanchun Zhou
   
 We  summarize over 170 related works, providing a comprehensive review of the efforts to bridge the gap between
  time series data and language models, exploring their design principles, and applications in various traffic
@@ -35,7 +35,7 @@ We  summarize over 170 related works, providing a comprehensive review of the ef
 
 [Disentangling Dynamics: Advanced, Scalable and Explainable Imputation for Multivariate Time Series]
 
-Shuai Liu, Xiucheng Li, Yile Chen, Yue Jiang, Gao Cong
+**Shuai Liu**, Xiucheng Li, Yile Chen, Yue Jiang, Gao Cong
   
 We
 propose TIDER and its enhanced version, AdaTIDER. TIDER
@@ -62,7 +62,7 @@ taining scalability.
 
 [UrbanLLM: Autonomous Urban Activity Planning and Management withLarge Language Models]
 
-Yue Jiang, Qin Chao, Yile Chen1, Xiucheng Li, Shuai Liu, Gao Cong
+Yue Jiang, Qin Chao, Yile Chen, Xiucheng Li, **Shuai Liu**, Gao Cong
   
 We introduce UrbanLLM,
  a fine-tuned large language model (LLM)
@@ -83,7 +83,7 @@ solver by decomposing urban-related queries
 
 [Personalized and On-device Trajectory Mobility Prediction]
 
-Cuauhtemoc Anda, Ning Cao, Shuai Liu*, Shaowei Ying, Gao Cong
+Cuauhtemoc Anda, Ning Cao, **Shuai Liu**, Shaowei Ying, Gao Cong
   
 We propose a novel feature-engineering and machine
  learning-based framework for trajectory prediction. Our method
@@ -115,7 +115,7 @@ We present a Scaleable Adaptive Graph Diffusion Forecasting Network (SAGDFN) to 
 
 [Multivariate Time-series imputation with disentangled representations]
 
-**SHUAI LIU**, XIUCHENG LI, GAO CONG, YILE CHEN, YUE JIANG
+**Shuai Liu**, Xiucheng Li, Gao Cong, Yile Chen, Yue Jiang
   
 We propose TIDER, a novel matrix factorization-based method with disentangled temporal representations that account for multiple factors, namely trend, seasonality, and local bias, to model complex dynamics. The learned disen- tanglement makes the imputation process more reliable and offers explainability for imputation results.
 </div>
@@ -126,7 +126,7 @@ We propose TIDER, a novel matrix factorization-based method with disentangled te
 
 [Real-time Transportation Prediction Correction using Reconstruction Error in Deep Learning, TKDD 2020]
 
-**SHUAI LIU**, GUOJIE SONG, WENHAO HUANG
+**Shuai Liu**, Guojie Song, Wenhao Huang
   
 We propose traffic prediction correction strategy using the reconstruction error in the deep neural network. The reconstruction error can reflect the model’s ability on feature representation and then determine the fitness of an input data to the model. We propose two mechanisms of real-time prediction correction using this reconstruction error: the data driven approach and the model-driven approach.
 </div>
