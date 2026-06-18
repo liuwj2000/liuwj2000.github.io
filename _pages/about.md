@@ -159,7 +159,7 @@ CIKM 2024, Neurips 2024, ICDE 2024
 
 ICLR 2025, AISTATS 2025, ACL 2025, ICML 2025, IJCAI 2025, KDD 2025, KBS 2025, ASOC 2025, Neurips 2025
 
-AAAI 2026, AISTATS 2026, ICML 2026 (Silver Reviewer), KDD 2026, NeurIPS 2026, CIKM 2026, TSC 2026 (external)
+AAAI 2026, AISTATS 2026, ICML 2026 (Silver Reviewer), KDD 2026, NeurIPS 2026, CIKM 2026, Transactions on Social Computing 2026 (external), Data Science and Engineering 2026
 
 <section class="visitor-map" aria-labelledby="visitor-map-title">
   <h1 id="visitor-map-title">Visitors Around the World</h1>
