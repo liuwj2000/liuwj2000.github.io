@@ -16,91 +16,97 @@ Hi, this is Shuai Liu (刘帅）, a last-year PhD student at Nanyang Technologic
 
 <div class="publication-list">
   <div class="publication-item">
-    <div class="publication-title">A Survey of Large Language Models for Traffic Forecasting: Methods and Applications</div>
+    <div class="publication-title">Cross-City Time Series Forecasting with Retrieval-Augmented Large Language Models <a class="publication-link" href="https://doi.org/10.1145/3774904.3792074" target="_blank" rel="noopener noreferrer">[Paper]</a></div>
+    <div class="publication-authors">Yue Jiang, Chenxi Liu, Yile Chen, Qin Chao, <strong>Shuai Liu</strong>, Cheng Long, Gao Cong</div>
+    <div class="publication-venue">The ACM Web Conference (WWW), 2026</div>
+  </div>
+
+  <div class="publication-item">
+    <div class="publication-title">A Survey of Large Language Models for Traffic Forecasting: Methods and Applications <a class="publication-link" href="https://doi.org/10.1109/TBDATA.2026.3668685" target="_blank" rel="noopener noreferrer">[Paper]</a></div>
     <div class="publication-authors">Qingqing Long, <strong>Shuai Liu</strong>, Ning Cao, Zhicheng Ren, Xiao Luo, Wei Ju, Chen Fang, Zhihong Zhu, Hengshu Zhu, Yuanchun Zhou</div>
     <div class="publication-venue">IEEE Transactions on Big Data, 2026</div>
   </div>
 
   <div class="publication-item">
-    <div class="publication-title">Bus-Conditioned Zero-Shot Trajectory Generation via Task Arithmetic</div>
+    <div class="publication-title">Bus-Conditioned Zero-Shot Trajectory Generation via Task Arithmetic <a class="publication-link" href="https://arxiv.org/abs/2602.13071" target="_blank" rel="noopener noreferrer">[Paper]</a></div>
     <div class="publication-authors"><strong>Shuai Liu</strong>, Ning Cao, Yile Chen, Yue Jiang, Gao Cong</div>
     <div class="publication-venue">arXiv preprint arXiv:2602.13071, 2026</div>
   </div>
 
   <div class="publication-item">
-    <div class="publication-title">FSTLLM: Spatio-Temporal LLM for Few-Shot Time Series Forecasting</div>
+    <div class="publication-title">FSTLLM: Spatio-Temporal LLM for Few-Shot Time Series Forecasting <a class="publication-link" href="https://proceedings.mlr.press/v267/jiang25a.html" target="_blank" rel="noopener noreferrer">[Paper]</a></div>
     <div class="publication-authors">Yue Jiang, Yile Chen, Xiucheng Li, Qin Chao, <strong>Shuai Liu</strong>, Gao Cong</div>
     <div class="publication-venue">The 42nd International Conference on Machine Learning (ICML), 2025</div>
   </div>
 
   <div class="publication-item">
-    <div class="publication-title">STRATA-TS: Selective Knowledge Transfer for Urban Time Series Forecasting with Retrieval-Guided Reasoning</div>
+    <div class="publication-title">STRATA-TS: Selective Knowledge Transfer for Urban Time Series Forecasting with Retrieval-Guided Reasoning <a class="publication-link" href="https://arxiv.org/abs/2508.18635" target="_blank" rel="noopener noreferrer">[Paper]</a></div>
     <div class="publication-authors">Yue Jiang, Chenxi Liu, Yile Chen, Qin Chao, <strong>Shuai Liu</strong>, Cheng Long, Gao Cong</div>
     <div class="publication-venue">arXiv preprint arXiv:2508.18635, 2025</div>
   </div>
 
   <div class="publication-item">
-    <div class="publication-title">Enhancing Large Language Models for Mobility Analytics with Semantic Location Tokenization</div>
+    <div class="publication-title">Enhancing Large Language Models for Mobility Analytics with Semantic Location Tokenization <a class="publication-link" href="https://doi.org/10.1145/3711896.3736937" target="_blank" rel="noopener noreferrer">[Paper]</a></div>
     <div class="publication-authors">Yile Chen, Yicheng Tao, Yue Jiang, <strong>Shuai Liu</strong>, Han Yu, Gao Cong</div>
     <div class="publication-venue">The 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2025</div>
   </div>
 
   <div class="publication-item">
-    <div class="publication-title">Mixture-of-Experts for Personalized and Semantic-Aware Next Location Prediction</div>
+    <div class="publication-title">Mixture-of-Experts for Personalized and Semantic-Aware Next Location Prediction <a class="publication-link" href="https://arxiv.org/abs/2505.24597" target="_blank" rel="noopener noreferrer">[Paper]</a></div>
     <div class="publication-authors"><strong>Shuai Liu</strong>, Ning Cao, Yile Chen, Yue Jiang, Gao Cong</div>
     <div class="publication-venue">arXiv preprint arXiv:2505.24597, 2025</div>
   </div>
 
   <div class="publication-item">
-    <div class="publication-title">Disentangling Dynamics: Advanced, Scalable and Explainable Imputation for Multivariate Time Series</div>
+    <div class="publication-title">Disentangling Dynamics: Advanced, Scalable and Explainable Imputation for Multivariate Time Series <a class="publication-link" href="https://doi.org/10.1109/TKDE.2025.3558405" target="_blank" rel="noopener noreferrer">[Paper]</a></div>
     <div class="publication-authors"><strong>Shuai Liu</strong>, Xiucheng Li, Yile Chen, Yue Jiang, Gao Cong</div>
     <div class="publication-venue">IEEE Transactions on Knowledge and Data Engineering (TKDE), 2025</div>
   </div>
 
   <div class="publication-item">
-    <div class="publication-title">UrbanLLM: Autonomous Urban Activity Planning and Management with Large Language Models</div>
+    <div class="publication-title">UrbanLLM: Autonomous Urban Activity Planning and Management with Large Language Models <a class="publication-link" href="https://aclanthology.org/2024.findings-emnlp.98/" target="_blank" rel="noopener noreferrer">[Paper]</a></div>
     <div class="publication-authors">Yue Jiang, Qin Chao, Yile Chen, Xiucheng Li, <strong>Shuai Liu</strong>, Gao Cong</div>
     <div class="publication-venue">Findings of the Association for Computational Linguistics: EMNLP, 2024</div>
   </div>
 
   <div class="publication-item">
-    <div class="publication-title">Personalized and On-Device Trajectory Mobility Prediction</div>
+    <div class="publication-title">Personalized and On-Device Trajectory Mobility Prediction <a class="publication-link" href="https://doi.org/10.1145/3681771.3699917" target="_blank" rel="noopener noreferrer">[Paper]</a></div>
     <div class="publication-authors">Cuauhtemoc Anda, Ning Cao, <strong>Shuai Liu</strong>, Shaowei Ying, Gao Cong</div>
     <div class="publication-venue">The 2nd ACM SIGSPATIAL International Workshop on Human Mobility Prediction Challenge, 2024 (6th Place Worldwide)</div>
   </div>
 
   <div class="publication-item">
-    <div class="publication-title">NextLocLLM: Location Semantics Modeling and Coordinate-Based Next Location Prediction with LLMs</div>
+    <div class="publication-title">NextLocLLM: Location Semantics Modeling and Coordinate-Based Next Location Prediction with LLMs <a class="publication-link" href="https://arxiv.org/abs/2410.09129" target="_blank" rel="noopener noreferrer">[Paper]</a></div>
     <div class="publication-authors"><strong>Shuai Liu</strong>, Ning Cao, Yile Chen, Yue Jiang, George Rosario Jagadeesh, Gao Cong</div>
     <div class="publication-venue">The International Workshop on Spatio-Temporal Data Intelligence and Foundation Models, CIKM 2025</div>
   </div>
 
   <div class="publication-item">
-    <div class="publication-title">NextLocLLM: Next Location Prediction Using LLMs</div>
+    <div class="publication-title">NextLocLLM: Next Location Prediction Using LLMs <a class="publication-link" href="https://openreview.net/forum?id=uiBLOcyTIA" target="_blank" rel="noopener noreferrer">[Paper]</a></div>
     <div class="publication-authors"><strong>Shuai Liu</strong>, Ning Cao, Yile Chen, Yue Jiang, Gao Cong</div>
     <div class="publication-venue">Preprint, 2024</div>
   </div>
 
   <div class="publication-item">
-    <div class="publication-title">SAGDFN: A Scalable Adaptive Graph Diffusion Forecasting Network for Multivariate Time Series Forecasting</div>
+    <div class="publication-title">SAGDFN: A Scalable Adaptive Graph Diffusion Forecasting Network for Multivariate Time Series Forecasting <a class="publication-link" href="https://doi.org/10.1109/ICDE60146.2024.00101" target="_blank" rel="noopener noreferrer">[Paper]</a></div>
     <div class="publication-authors">Yue Jiang, Xiucheng Li, Yile Chen, <strong>Shuai Liu</strong>, Weilong Kong, Antonis F. Lentzakis, Gao Cong</div>
     <div class="publication-venue">IEEE 40th International Conference on Data Engineering (ICDE), 2024</div>
   </div>
 
   <div class="publication-item">
-    <div class="publication-title">Multivariate Time-Series Imputation with Disentangled Temporal Representations</div>
+    <div class="publication-title">Multivariate Time-Series Imputation with Disentangled Temporal Representations <a class="publication-link" href="https://iclr.cc/virtual/2023/poster/12100" target="_blank" rel="noopener noreferrer">[Paper]</a></div>
     <div class="publication-authors"><strong>Shuai Liu</strong>, Xiucheng Li, Gao Cong, Yile Chen, Yue Jiang</div>
     <div class="publication-venue">The 11th International Conference on Learning Representations (ICLR), 2023</div>
   </div>
 
   <div class="publication-item">
-    <div class="publication-title">Real-Time Transportation Prediction Correction Using Reconstruction Error in Deep Learning</div>
+    <div class="publication-title">Real-Time Transportation Prediction Correction Using Reconstruction Error in Deep Learning <a class="publication-link" href="https://doi.org/10.1145/3369871" target="_blank" rel="noopener noreferrer">[Paper]</a></div>
     <div class="publication-authors"><strong>Shuai Liu</strong>, Guojie Song, Wenhao Huang</div>
     <div class="publication-venue">ACM Transactions on Knowledge Discovery from Data (TKDD), 2020</div>
   </div>
 
   <div class="publication-item">
-    <div class="publication-title">高科西路浦东南路路口交通优化设计</div>
+    <div class="publication-title">高科西路浦东南路路口交通优化设计 <a class="publication-link" href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=NOWOyzUAAAAJ&amp;pagesize=100&amp;citation_for_view=NOWOyzUAAAAJ:W7OEmFMy1HYC" target="_blank" rel="noopener noreferrer">[Paper]</a></div>
     <div class="publication-authors"><strong>刘帅</strong></div>
     <div class="publication-venue">上海市青少年人文社会科学论文竞赛一等奖, 2016</div>
   </div>
