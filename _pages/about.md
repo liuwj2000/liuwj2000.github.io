@@ -23,7 +23,7 @@ Hi, this is Shuai Liu (刘帅）, a last-year PhD student at Nanyang Technologic
 
   <div class="publication-item">
     <div class="publication-title">A Survey of Large Language Models for Traffic Forecasting: Methods and Applications <a class="publication-link" href="https://doi.org/10.1109/TBDATA.2026.3668685" target="_blank" rel="noopener noreferrer">[Paper]</a></div>
-    <div class="publication-authors">Qingqing Long, <strong>Shuai Liu</strong>, Ning Cao, Zhicheng Ren, Xiao Luo, Wei Ju, Chen Fang, Zhihong Zhu, Hengshu Zhu, Yuanchun Zhou</div>
+    <div class="publication-authors">Qingqing Long, <strong>Shuai Liu</strong>, Ning Cao, Zhicheng Ren, Xiao Luo, Wei Ju, Chen Fang, Zhihong Zhu, Hengshu Zhu, Yuanchun Zhou （前三作者共一）</div>
     <div class="publication-venue">IEEE Transactions on Big Data, 2026</div>
   </div>
 
@@ -54,7 +54,7 @@ Hi, this is Shuai Liu (刘帅）, a last-year PhD student at Nanyang Technologic
   <div class="publication-item">
     <div class="publication-title">Mixture-of-Experts for Personalized and Semantic-Aware Next Location Prediction <a class="publication-link" href="https://arxiv.org/abs/2505.24597" target="_blank" rel="noopener noreferrer">[Paper]</a></div>
     <div class="publication-authors"><strong>Shuai Liu</strong>, Ning Cao, Yile Chen, Yue Jiang, Gao Cong</div>
-    <div class="publication-venue">arXiv preprint arXiv:2505.24597, 2025</div>
+    <div class="publication-venue">ACM SIGSPATIAL International Conference, 2026</div>
   </div>
 
   <div class="publication-item">
@@ -165,7 +165,7 @@ CIKM 2024, Neurips 2024, ICDE 2024
 
 ICLR 2025, AISTATS 2025, ACL 2025, ICML 2025, IJCAI 2025, KDD 2025, KBS 2025, ASOC 2025, Neurips 2025
 
-AAAI 2026, AISTATS 2026, ICML 2026 (Silver Reviewer), KDD 2026, NeurIPS 2026, CIKM 2026, SIGSPATIAL 2026, TMLR 2026, Transactions on Social Computing 2026 (external), Data Science and Engineering 2026
+AAAI 2026, AISTATS 2026, ICML 2026 (Silver Reviewer), KDD 2026, NeurIPS 2026, CIKM 2026, SIGSPATIAL 2026, WSDM 2026, TMLR 2026, Transactions on Social Computing 2026 (external), Data Science and Engineering 2026
 
 AAAI 2027
 
